@@ -1,0 +1,6 @@
+About the project:
+
+EduMail Application
+-OOP in real world application
+
+Author:github.com/0xrasel
