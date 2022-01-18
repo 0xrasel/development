@@ -1,0 +1,6 @@
+About the project:
+
+Online Quiz System
+-Project based on JDBC, JSP, Java Servlet.
+
+Author:github.com/0xrasel
