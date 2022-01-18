@@ -1,0 +1,6 @@
+About the project:
+
+Network Packet Tracer
+-Using Java core, networking, Swing, Maven.
+
+Author:github.com/0xrasel
