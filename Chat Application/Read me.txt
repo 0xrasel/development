@@ -1,0 +1,6 @@
+About the project:
+
+MultiThread Chat System
+-Using java core concepts and swing
+
+Author:github.com/0xrasel
